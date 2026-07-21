@@ -1,0 +1,24 @@
+*** Creating Trace Output File 'empty_skeleton.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"systeminit.o"'
+### List of Objects: adding '"startup_stm32f10x_hd.o"'
+### List of Objects: adding '"font5x7.o"'
+### List of Objects: adding '"lcd_grph.o"'
+### List of Objects: adding '"lcd_hw.o"'
+### List of Objects: adding '"lcd_ili9341.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "main.o" "systeminit.o" "startup_stm32f10x_hd.o" "font5x7.o" "lcd_grph.o" "lcd_hw.o" "lcd_ili9341.o" --ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\empty_skeleton.map" -o "empty_skeleton.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'empty_skeleton.axf'
+### ADS-LD Command File: 'empty_skeleton.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'empty_skeleton.lnp', Handle=0x000009CC
+### Writing '.lnp' file
+### ADS-LD Command file 'empty_skeleton.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
