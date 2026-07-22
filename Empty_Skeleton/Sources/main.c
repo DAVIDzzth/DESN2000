@@ -13,11 +13,11 @@ int main(void) {
 	GPIOF->CRL = 0x22222222;
 	
 	while (1){
-		GPIOF->BSRR = 0x000000FF;
+		GPIOF->BSRR = (1<<0)|(1<<1);
 		
 		delay();
 		
-		GPIOF->BSRR = 0x00FF0000;
+		GPIOF->BSRR = (1<<16)|(1<<17);
 		
 		delay();
 

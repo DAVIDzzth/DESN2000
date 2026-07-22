@@ -1,5 +1,5 @@
 Dependencies for Project 'empty_skeleton', Target 'Target 1': (DO NOT MODIFY !)
-F (.\sources\main.c)(0x6A601373)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o "main.o" --omf_browse "main.crf" --depend "main.d")
+F (.\sources\main.c)(0x6A6014AE)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o "main.o" --omf_browse "main.crf" --depend "main.d")
 I (sources\../Headers/stm32f103xe.h)(0x6A600EE9)
 I (sources\../Headers/core_cm3.h)(0x6A600EE9)
 I (C:\Keil\ARM\RV31\Inc\stdint.h)(0x4F580B4C)
