@@ -85,3 +85,133 @@ Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton
 Erase Done.
 Programming Done.
 Verify OK.
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(711): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=6900 RO-data=1112 RW-data=32 ZI-data=1632  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(713): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=6860 RO-data=1112 RW-data=32 ZI-data=1632  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Build target 'Target 1'
+linking...
+Program Size: Code=6860 RO-data=1112 RW-data=32 ZI-data=1632  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(825): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7208 RO-data=1112 RW-data=20 ZI-data=1636  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(937): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=7520 RO-data=1112 RW-data=20 ZI-data=1636  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(698): error:  #20: identifier "ADC_TIMEOUT_COUNT" is undefined
+sources\main.c(1048): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(698): error:  #20: identifier "ADC_TIMEOUT_COUNT" is undefined
+sources\main.c(1048): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(698): error:  #20: identifier "ADC_TIMEOUT_COUNT" is undefined
+sources\main.c(1048): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(698): error:  #20: identifier "ADC_TIMEOUT_COUNT" is undefined
+sources\main.c(1048): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(698): error:  #20: identifier "ADC_TIMEOUT_COUNT" is undefined
+sources\main.c(1048): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(698): error:  #20: identifier "ADC_TIMEOUT_COUNT" is undefined
+sources\main.c(1048): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(698): error:  #20: identifier "ADC_TIMEOUT_COUNT" is undefined
+sources\main.c(1048): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=7900 RO-data=1112 RW-data=24 ZI-data=1632  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=7736 RO-data=1112 RW-data=24 ZI-data=1632  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(1141): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=8276 RO-data=1112 RW-data=24 ZI-data=1632  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling main.c...
+sources\main.c(1141): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=8276 RO-data=1112 RW-data=24 ZI-data=1632  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 1 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Build target 'Target 1'
+linking...
+Program Size: Code=8276 RO-data=1112 RW-data=24 ZI-data=1632  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Build target 'Target 1'
+linking...
+Program Size: Code=8276 RO-data=1112 RW-data=24 ZI-data=1632  
+".\Objects\empty_skeleton.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Users\\Administrator\\OneDrive\\文档\\GitHub\\DESN2000\\Empty_Skeleton\\Objects\\empty_skeleton.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
