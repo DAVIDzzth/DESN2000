@@ -1,0 +1,11 @@
+.\Objects\main.o: sources\main.c
+.\Objects\main.o: sources\../Headers/stm32f103xe.h
+.\Objects\main.o: sources\../Headers/core_cm3.h
+.\Objects\main.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\Objects\main.o: sources\../Headers/core_cmInstr.h
+.\Objects\main.o: sources\../Headers/core_cmFunc.h
+.\Objects\main.o: sources\../Headers/system_stm32f1xx.h
+.\Objects\main.o: sources\../LCD/ili9341.h
+.\Objects\main.o: sources\../LCD/lcd_hw.h
+.\Objects\main.o: sources\../LCD/ili9341.h
+.\Objects\main.o: sources\../LCD/lcd_grph.h

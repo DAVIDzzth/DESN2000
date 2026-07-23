@@ -1,8 +1,0 @@
-lcd_ili9341.o: LCD\lcd_ili9341.c
-lcd_ili9341.o: LCD\ili9341.h
-lcd_ili9341.o: C:\Keil\ARM\RV31\Inc\stdint.h
-lcd_ili9341.o: LCD\stm32f103xe.h
-lcd_ili9341.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
-lcd_ili9341.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
-lcd_ili9341.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
-lcd_ili9341.o: LCD\system_stm32f1xx.h

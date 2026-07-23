@@ -563,10 +563,11 @@ ARM Macro Assembler    Page 9
               00000400 
               00000200 
               00000000 
-Command Line: --debug --xref --cpu=Cortex-M3 --apcs=interwork --depend=startup_
-stm32f10x_hd.d -ostartup_stm32f10x_hd.o -IC:\Keil\ARM\RV31\Inc -IC:\Keil\ARM\CM
-SIS\Include -IC:\Keil\ARM\Inc\ST\STM32F10x --predefine="__EVAL SETA 1" --list=.
-\startup_stm32f10x_hd.lst Sources\startup_stm32f10x_hd.s
+Command Line: --debug --xref --cpu=Cortex-M3 --apcs=interwork --depend=.\Object
+s\startup_stm32f10x_hd.d -o.\Objects\startup_stm32f10x_hd.o -IC:\Keil\ARM\RV31\
+Inc -IC:\Keil\ARM\CMSIS\Include -IC:\Keil\ARM\Inc\ST\STM32F10x --predefine="__E
+VAL SETA 1" --list=.\Listings\startup_stm32f10x_hd.lst Sources\startup_stm32f10
+x_hd.s
 
 
 
