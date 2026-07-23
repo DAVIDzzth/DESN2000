@@ -15,7 +15,7 @@
 ### ADS-LD Output File: '.\Objects\empty_skeleton.axf'
 ### ADS-LD Command File: '.\Objects\empty_skeleton.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '.\Objects\empty_skeleton.lnp', Handle=0x000010CC
+### Creating CmdFile '.\Objects\empty_skeleton.lnp', Handle=0x00000C20
 ### Writing '.lnp' file
 ### ADS-LD Command file '.\Objects\empty_skeleton.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.
